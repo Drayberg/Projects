@@ -1,0 +1,5 @@
+pip~=22.1.1
+attrs~=20.3.0
+cryptography~=36.0.2
+setuptools~=39.0.1
+pytest~=7.1.1
